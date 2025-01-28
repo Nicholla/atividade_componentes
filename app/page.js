@@ -4,9 +4,10 @@ export default function Home() {
   return (
     <div>
 
-      <h1> Qualquer coisa </h1>
-      <p> Qualquer coisa mesmo </p>
-     
+      <h1> Enviando para GitHub </h1>
+      <p> Atividade em andamenteo... </p>
+      <p> Testatando nova versão </p>
+
     </div>
   );
 }
